@@ -1,4 +1,4 @@
-Félix Riffont, Creative Web Developer
+Félix Riffont, **Creative Web Developer**
 
 🔭 I’m currently working on my new portfolio !
 
